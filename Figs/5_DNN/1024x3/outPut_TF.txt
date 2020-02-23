@@ -1,0 +1,11 @@
+===  test === 
+--- caseID ./Figs/5_DNN/  begin --- 
+--- local time  22/02/2020 00:35:17 --- 
+ layer [512] 
+ test error [49.24659431 82.31577218] (deg) 
+ timeCost 133.18380641937256 
+--- caseID ./Figs/5_DNN/  end --- 
+
+
+
+

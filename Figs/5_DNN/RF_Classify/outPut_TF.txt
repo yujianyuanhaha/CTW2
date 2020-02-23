@@ -1,0 +1,14 @@
+===  test === 
+--- caseID /home/jianyuan/Codes/1_CTW2/Figs/5_DNN/  begin --- 
+--- local time  22/02/2020 16:42:33 --- 
+===  test === 
+--- caseID /home/jianyuan/Codes/1_CTW2/Figs/5_DNN/  begin --- 
+--- local time  22/02/2020 16:43:14 --- 
+ layer [512] 
+ test error [50.91 89.77] (deg) 
+ timeCost 47.97508907318115 
+--- caseID /home/jianyuan/Codes/1_CTW2/Figs/5_DNN/  end --- 
+
+
+
+

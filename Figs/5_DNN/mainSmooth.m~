@@ -1,0 +1,10 @@
+% multi poly smooth & downsample by 14
+
+load('Xraw.mat');
+
+
+t = squeeze(abs( h_Estimated_Sf(1,1,:)))';
+
+% multi-var smooth
+p = polyfit(1:924,t,10);
+t_h = polyval(p,1:924);
